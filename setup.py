@@ -7,7 +7,7 @@ def read_file(file_name):
 
 
 setup(
-    name="tweetprocessor",
+    name="tweetprocessor_1",
     version="1.0.0",
     packages=find_packages(include=['text_processing', 'text_processing.*']),
     url="",
